@@ -4,7 +4,7 @@ title:  "Oracle Express on Docker"
 ---
 **Oracle Express on Docker**
 
-<img src="/assets/circuit-board-6522555_1280.png" alt="circuit logo" style="height: 50px;"/>&nbsp;The following docker command can be used to run Oracle Express in Docker:
+{% include image.html post=page.path file="circuit-board-6522555_1280.png" %}&nbsp;The following docker command can be used to run Oracle Express in Docker:
 
 <pre>
   <code>
