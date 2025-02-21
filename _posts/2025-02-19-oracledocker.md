@@ -28,7 +28,7 @@ Then login with sqlplus (or sqlplus64) and do your stuff.
   </code>
 </pre>
 
-From within SQL*Plus, create a user (schema) to hold come demo data.
+From within SQL*Plus, create a user (schema) to hold some demo data.
 
 <pre>
   <code>
