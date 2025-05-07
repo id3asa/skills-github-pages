@@ -1,3 +1,5 @@
 theme: minima
 title: id3asa homepage | Asa Welle's Blog
 description: 
+url: https://id3asa.github.io
+baseurl: /skills-github-pages
