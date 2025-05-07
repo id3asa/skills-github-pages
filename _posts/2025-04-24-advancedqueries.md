@@ -24,11 +24,11 @@ title:  "Advanced Queries"
 
 <h1>Trace file on OracleDB Docker Container</h1>
 
-![alt text](image.png)
+<img src="image.png">
 
 <h1>Monitor within local running Docker Hub</h1>
 
-![alt text](image-1.png)
+<img src="image-1.png">
 
 <h1>Output from query</h1>
 
@@ -48,6 +48,6 @@ title:  "Advanced Queries"
 	</tr>
 </table>
 
-![alt text](image-2.png)
+<img src="image-2.png">
 
 
