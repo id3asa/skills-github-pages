@@ -30,3 +30,24 @@ title:  "Advanced Queries"
 
 ![alt text](image-1.png)
 
+<h1>Output from query</h1>
+
+<table><thead><tr>	<th>REGION_NAME</th>
+	<th>CUSTOMER_NAME</th>
+	<th>CUSTOMER_SALES</th>
+</tr></thead>
+	<tr>
+<td>SOUTHWEST US</td>
+<td>Los Angeles College of Arts</td>
+<td >30000</td>
+	</tr>
+	<tr>
+<td>SOUTHCENTRAL US</td>
+<td>Dallas Music Academy</td>
+<td >25000</td>
+	</tr>
+</table>
+
+![alt text](image-2.png)
+
+
