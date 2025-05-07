@@ -51,3 +51,4 @@ title:  "SQL Server on Docker"
   );
   </code>
 </pre>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/image-5.png" alt="">
