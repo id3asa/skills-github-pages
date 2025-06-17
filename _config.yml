@@ -1,5 +1,5 @@
 theme: minima
 title: id3asa homepage | Asa Welle's Blog
-description: 
+description: Insights on building non-blocking, reactive Java RESTful microservices with Spring Boot/WebFlux, integrating MongoDB and JPA-based RDBMS, and advanced relational database design. Covers Oracle PL/SQL, robust reporting with Jasper and Oracle Reports, CI/CD pipelines, cloud deployments, Swagger/OpenAPI, Kafka messaging, and Agile collaboration.
 url: https://id3asa.github.io
 baseurl: /skills-github-pages
